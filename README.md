@@ -35,11 +35,11 @@ This repository showcases my solutions to various Codeforces and AtCoder problem
 ### 2- Iterative Problem Solving:
 - Consistent participation in Codeforces contests.
 - Regular practice sessions on platform-provided problem sets.
-- 
+
 ### 3- Algorithmic Exploration:
 - Experimentation with various algorithms to find optimal solutions.
 - Exploration of different problem-solving paradigms (e.g., Divide and Conquer, Dynamic Programming) based on problem requirements.
-- 
+
 ### 4- Community Involvement:
 - Active participation in discussions and forums.
 - Seeking and providing feedback on solutions.
