@@ -1,7 +1,7 @@
 # CodeForces
 
 ### Overview:
-This repository showcases my solutions to various Codeforces problems, highlighting the diverse range of techniques, algorithms, and data structures employed. Each solution is a result of rigorous problem-solving efforts and a commitment to mastering different aspects of competitive programming.
+This repository showcases my solutions to various Codeforces, AtCoder problems, highlighting the diverse range of techniques, algorithms, and data structures employed. Each solution is a result of rigorous problem-solving efforts and a commitment to mastering different aspects of competitive programming.
 
 ### Key Features:
 
